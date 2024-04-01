@@ -1,0 +1,14 @@
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfoInputs.cache
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfo.cs
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\Bridge.csproj.CoreCompileInputs.cache
+F:\SE401\Bridge\Bridge\bin\Debug\net8.0\Bridge.exe
+F:\SE401\Bridge\Bridge\bin\Debug\net8.0\Bridge.deps.json
+F:\SE401\Bridge\Bridge\bin\Debug\net8.0\Bridge.runtimeconfig.json
+F:\SE401\Bridge\Bridge\bin\Debug\net8.0\Bridge.dll
+F:\SE401\Bridge\Bridge\bin\Debug\net8.0\Bridge.pdb
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\Bridge.dll
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\refint\Bridge.dll
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\Bridge.pdb
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\Bridge.genruntimeconfig.cache
+F:\SE401\Bridge\Bridge\obj\Debug\net8.0\ref\Bridge.dll
