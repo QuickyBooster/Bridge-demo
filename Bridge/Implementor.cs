@@ -1,25 +1,25 @@
 ﻿
 namespace Bridge
 {
-	public interface IImplementor
+	public interface RemoteImplementor
 	{
-		string OperationImplementation();
+		string ButtonA1();
 	}
 
 
-	class ConcreteImplementationA : IImplementor
+	class SamsungRemote : RemoteImplementor
 	{
-		public string OperationImplementation()
+		public string ButtonA1()
 		{
-			return "ConcreteImplementationA: The result in platform A.\n";
+			return "Increase the VOLUME \n";
 		}
 	}
 
-	class ConcreteImplementationB : IImplementor
+	class LGRemote : RemoteImplementor
 	{
-		public string OperationImplementation()
+		public string ButtonA1()
 		{
-			return "ConcreteImplementationB: The result in platform B.\n";
+			return "Switch to NETFLIX \n";
 		}
 	}
 }

@@ -3,9 +3,9 @@
 
 	class Client
 	{
-		public void ClientCode(Abstraction abstraction)
+		public void ClientCode(TiviAbstraction abstraction)
 		{
-			Console.Write(abstraction.Operation());
+			Console.Write(abstraction.OperarionF());
 		}
 	}
 
@@ -15,13 +15,13 @@
 		{
 			Client client = new Client();
 
-			Abstraction abstraction;
-			abstraction = new Abstraction(new ConcreteImplementationA());
+			TiviAbstraction abstraction;
+			abstraction = new TiviAbstraction(new SamsungRemote());
 			client.ClientCode(abstraction);
 
 			Console.WriteLine();
 
-			abstraction = new ExtendedAbstraction(new ConcreteImplementationB());
+			abstraction = new SamsungTV(new LGRemote());
 			client.ClientCode(abstraction);
 		}
 	}
